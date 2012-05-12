@@ -1,0 +1,21 @@
+{
+  "author": "Rob Middleton <dsmlover@gmail.com>",
+  "name": "Rob-bot",
+  "description": "AI",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "run.js",
+  "dependencies": {
+    "request": "2.9.202"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {
+    "start": "node run.js"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
