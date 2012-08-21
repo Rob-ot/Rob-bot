@@ -1,6 +1,6 @@
 
 var request = require('request')
-var host = 'http://dev.i.tv:3026'
+var host = 'http://localhost:3026'
 var newPlayerData = {
   name: 'Rob-ot',
   source: 'https://github.com/Rob-ot/Rob-bot'
